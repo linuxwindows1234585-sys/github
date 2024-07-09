@@ -1,5 +1,8 @@
-# Weather
+# Sudoku
 
-Bu proje bize hava durumunu gösteren bir projedir
-Bu program 7 günlük hava durumu gösterir
-Programa bir şehir adı yazdîğımız zaman oranın hava durumunu gösterir
+Bu oyun zihin geliştiren bir oyundur 
+Bu oyunu çalıştırma:
+İlk öncelikle karşına gelen ekranda hata ayıklama (debugmode) açın ve hata ayıklama (debugmode) basın
+Hata ayıklama modu oyunu orta seviyede başlatır 
+Hata ayıklama modu ile başladıktan sonra hata ayıklama modundan çıksan bile hata almadan diğer seviyelerde bile oynanabilir
+internet hızı düşmeden indirilebilir
