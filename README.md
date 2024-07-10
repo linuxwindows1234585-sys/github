@@ -7,3 +7,4 @@ Bu oyunu çalıştırma:
 Hata ayıklama modu oyunu orta seviyede başlatır 
 Hata ayıklama modu ile başladıktan sonra hata ayıklama modundan çıksan bile hata almadan diğer seviyelerde bile oynanabilir
 internet hızı düşmeden indirilebilir
+https://drive.google.com/file/d/1Bb-Cf393z69iPNgO_YP08di1EHJg9on7/view?usp=drivesdk
