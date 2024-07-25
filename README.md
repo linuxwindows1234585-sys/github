@@ -1,11 +1,3 @@
-# Sudoku
-oyunda kolay orta zor seviyeler bulunur
-her yaş grubu oynayabilir
-Bu oyun zihin geliştiren bir oyundur 
-Bu oyunu çalıştırma:
-İlk öncelikle karşına gelen ekranda hata ayıklama (debugmode) açın ve hata ayıklama (debugmode) basın
-Hata ayıklama modu oyunu orta seviyede başlatır 
-Hata ayıklama modu ile başladıktan sonra hata ayıklama modundan çıksan bile hata almadan diğer seviyelerde bile oynanabilir
-internet hızı düşmeden indirilebilir
+# Main
 
-https://drive.google.com/file/d/1BewS8QD45cA5-ux-P-OkoslzU-Emg3Y_/view?usp=drivesdk
+https://drive.google.com/file/d/1LCUdHJ9EVCJFog3bVlvZgDFm13Piplp5/view?usp=drivesdk
