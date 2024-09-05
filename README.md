@@ -1,2 +1,7 @@
-#list
-https://drive.google.com/file/d/1QtrwNwVsDJ3PDhxm2l94RyPMS_h6z-8G/view?usp=drivesdk
+#main
+main ile yapılacaklar listesi hazırlayabilir ve bunu kaydedebilirsin
+#webreloader
+webreloader ile sıkıntılı olan siteyi otomatik olarak düzeltebilirsin
+#sudoku 
+sudoku ile sudoku oynayabilirsin
+
