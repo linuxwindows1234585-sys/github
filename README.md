@@ -6,4 +6,7 @@ webreloader ile sıkıntılı olan siteyi otomatik olarak düzeltebilirsin
 sudoku ile sudoku oynayabilirsin
 #main
 main ile kodlar yazarak resmin şeklini,arka planını ve renkleninin ayarlarını değiştirebilirsin
-
+#calc 
+hesap makinesi ile çarpma,bölme,toplama,çıkarma yapabilirsin
+#weather
+weather ile hava durumunu kontrol ederek yağmur varmı veya rüzgarın nerden eseceğine bakabilirsin
